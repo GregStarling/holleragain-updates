@@ -1,9 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.sparkle-project.org/xml/rss/1.0/modules/sparkle/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.sparkle-project.org/xml/rss/1.0/modules/sparkle/" version="2.0">
     <channel>
         <title>HollerAgain updates</title>
         <link>https://gregstarling.github.io/holleragain-updates/appcast.xml</link>
         <description>Signed update feed for HollerAgain</description>
         <language>en</language>
+        <item>
+            <title>0.8.1</title>
+            <pubDate>Fri, 14 Aug 2026 09:23:49 -0500</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://gregstarling.github.io/holleragain-updates/HollerAgain-0.8.1.dmg" length="43312764" type="application/octet-stream" sparkle:edSignature="K6RFl1qIRtjU2He0Q0NVCkC7TNMG2qvPMjREvm/jUjsVKJUfq/2NHdlo3WPr4n8s8uE/wuBp5srJgPcH6SuaBg=="/>
+        </item>
+        <item>
+            <title>0.8.0</title>
+            <pubDate>Fri, 14 Aug 2026 08:14:21 -0500</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://gregstarling.github.io/holleragain-updates/HollerAgain-0.8.0.dmg" length="43823150" type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
