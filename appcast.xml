@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.sparkle-project.org/xml/rss/1.0/modules/sparkle/">
+    <channel>
+        <title>HollerAgain updates</title>
+        <link>https://gregstarling.github.io/holleragain-updates/appcast.xml</link>
+        <description>Signed update feed for HollerAgain</description>
+        <language>en</language>
+    </channel>
+</rss>
