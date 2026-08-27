@@ -6,6 +6,21 @@
         <description>Signed update feed for HollerAgain</description>
         <language>en</language>
         <item>
+            <title>0.10.1</title>
+            <pubDate>Thu, 27 Aug 2026 09:49:22 -0500</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.10.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://gregstarling.github.io/holleragain-updates/HollerAgain-0.10.1.dmg" length="43355208" type="application/octet-stream" sparkle:edSignature="2gweb9dNv1NzcqLIDKs/9yePrnfbz3vsOJ2gPR+SRad3ih4o47NlHEE2H3QcPNyWWuDAk3H+jgZwewRjW23FCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://gregstarling.github.io/holleragain-updates/HollerAgain20-19.delta" sparkle:deltaFrom="19" length="164206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="q5K4lTXzPXwVDB0IDaewLbW6SOodn366DRJ/sjEfK7w93kWJgcBPj7whXWD/7yjPEmfCyqSQ/PLzWsJ1Ts7RCA=="/>
+                <enclosure url="https://gregstarling.github.io/holleragain-updates/HollerAgain20-18.delta" sparkle:deltaFrom="18" length="258926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YQKQ2Z//ihLaiLrodiahOMKeurabO7xNBMhyRJ3Vn8YYqa2aaqabvuUGZxdwT2ANgIit02eVivwnbc7lsr38Ag=="/>
+                <enclosure url="https://gregstarling.github.io/holleragain-updates/HollerAgain20-17.delta" sparkle:deltaFrom="17" length="299490" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2Sl1N7l+Q8Gk8QcYn1Y/H1kg3ucsdL9HeK42/LhAJv3cNV1v07gRMJfnkwpzaHECkEnAqv5ZETxiyRickHtAAg=="/>
+                <enclosure url="https://gregstarling.github.io/holleragain-updates/HollerAgain20-16.delta" sparkle:deltaFrom="16" length="343270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tH+S8kFn9l+Q2J7WqG6+cRyIpbcjNA9VBFN2O+XL+O0snmW/dUWLenb6/PWh3mJLFG2I9ogD/3ojGZWy0iWzCA=="/>
+                <enclosure url="https://gregstarling.github.io/holleragain-updates/HollerAgain20-15.delta" sparkle:deltaFrom="15" length="347918" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aepSSuVCoXBh834sT8LZ8O9XdmUh23ILkVZsDx0qFojykTGa9kufShNt9ggNmMO4c8H7K0/SdkBzkZ0FTY9BDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.10.0</title>
             <pubDate>Thu, 27 Aug 2026 02:24:13 -0500</pubDate>
             <sparkle:version>19</sparkle:version>
@@ -32,19 +47,6 @@
                 <enclosure url="https://gregstarling.github.io/holleragain-updates/HollerAgain18-16.delta" sparkle:deltaFrom="16" length="173454" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WNmARDCszyX7dgPxoZ9aJ0MgLLvRQ1Im2F6jBlzhJdFK3wz4x8fwzotYZQckhMuonbOfQX30CEKPpgjsjB9JDw=="/>
                 <enclosure url="https://gregstarling.github.io/holleragain-updates/HollerAgain18-15.delta" sparkle:deltaFrom="15" length="180406" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="veiQOU4Esvs2pKabhAWubBTTakl5ZSUIh5PosOuOzD8HOMeCRh16lIpQ7p+d4KIglP3xMujs5CEcIeQwXHOMDw=="/>
                 <enclosure url="https://gregstarling.github.io/holleragain-updates/HollerAgain18-14.delta" sparkle:deltaFrom="14" length="180706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EKYmctXeqYBQ5s2CioBvEYRTfBna2LKl7hVPJUEhutXdwZAekLiHkspd4VrDtqj3t/KUiTa4oDYDlfOVJvCUDQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.9.0</title>
-            <pubDate>Fri, 14 Aug 2026 19:20:43 -0500</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://gregstarling.github.io/holleragain-updates/HollerAgain-0.9.0.dmg" length="44746962" type="application/octet-stream" sparkle:edSignature="imyyO7DhnnnqKKuu406AJnl8ScrzC10vUqGV+PsYKJQS4t3Dy9Jl/CGjlu7sM92JQgihcQEGkSoipQ4qNNhUCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://gregstarling.github.io/holleragain-updates/HollerAgain17-16.delta" sparkle:deltaFrom="16" length="128022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="16YUpZJH1SEeYv969JGtJ6gIc7eams/7hbvsm0dQQtki6V8QAHDMLg75Umrn/k5dpk4AirAV/6kbp8GV6BRTBg=="/>
-                <enclosure url="https://gregstarling.github.io/holleragain-updates/HollerAgain17-15.delta" sparkle:deltaFrom="15" length="134250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/NBf3586wbEp7awPvHUAxmPxsu2ynERIc6AooBn7GrVomff7sDGEVb5RRFYd/atesDGYHlhr6qO+k9r24YjeCg=="/>
-                <enclosure url="https://gregstarling.github.io/holleragain-updates/HollerAgain17-14.delta" sparkle:deltaFrom="14" length="136470" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VVEipwuwbbg4pfcI9aV5/huE0fyPEjWxrUM1H86LCB2ml9kfSP/y5cRaX/1LgbUh0LcCwqc37VNibPRV6CWdAw=="/>
             </sparkle:deltas>
         </item>
     </channel>
