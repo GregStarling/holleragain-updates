@@ -6,6 +6,26 @@
         <description>Signed update feed for HollerAgain</description>
         <language>en</language>
         <item>
+            <title>0.17.3</title>
+            <pubDate>Mon, 26 Oct 2026 09:39:59 -0500</pubDate>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>0.17.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>HollerAgain 0.17.3</h2>
+<p>This update improves Remember and Recall on the Mac.</p>
+<ul>
+<li>Changing people or modes clears old answers and ignores late replies from the previous context.</li>
+<li>Open details keeps the original question and answer visible and lets you inspect the exact available sources.</li>
+<li>Undo remains available when you switch apps, with clear wording about the person and action.</li>
+<li>Avatar initials are centered, dark Recall controls are easier to read, and missing names have a useful fallback.</li>
+<li>Onboarding discovery follows the current setup state. Empty submissions explain what to enter.</li>
+<li>Intel and Apple silicon Macs include the same memory and voice runtimes. Requires macOS 13 or later.</li>
+</ul>
+<p>Your existing relationships, preferences, licensing and billing settings are preserved. HollerAgain never sends a message for you.</p>
+]]></description>
+            <enclosure url="https://github.com/GregStarling/holleragain-updates/releases/download/v0.17.3-build44/HollerAgain-0.17.3-build44.dmg" length="101341015" type="application/octet-stream" sparkle:edSignature="DIaWwnDBMkamUPA5BZEubMwmOSPWP25NRfez8CeS2Jg/yRW/QkHcB5c8IOLgCj94Rd0cS5+cT5pZlcEpKg0+BA=="/>
+        </item>
+        <item>
             <title>0.17.1</title>
             <pubDate>Fri, 04 Sep 2026 20:33:00 -0500</pubDate>
             <sparkle:version>31</sparkle:version>
