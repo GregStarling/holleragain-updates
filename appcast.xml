@@ -6,6 +6,23 @@
         <description>Signed update feed for HollerAgain</description>
         <language>en</language>
         <item>
+            <title>0.17.4</title>
+            <pubDate>Mon, 26 Oct 2026 10:53:01 -0500</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>0.17.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>HollerAgain 0.17.4</h2>
+<p>This update fixes opening Subscribe and the local dashboard when another application is using the usual local port.</p>
+<ul>
+<li>Dashboard links open only after HollerAgain verifies its own local server is ready. An unrelated local web server is never treated as HollerAgain.</li>
+<li>Repeated opens reuse the app's verified server and preserve the requested destination.</li>
+<li>Intel and Apple silicon Macs include the same memory and voice runtimes. Requires macOS 13 or later.</li>
+</ul>
+<p>Your existing relationships, preferences, licensing and billing settings are preserved. No message is sent for you.</p>
+]]></description>
+            <enclosure url="https://github.com/GregStarling/holleragain-updates/releases/download/v0.17.4-build45/HollerAgain-0.17.4-build45.dmg" length="101329554" type="application/octet-stream" sparkle:edSignature="yRo7NxxtE/Fhct3DlS4wl4NXUiy5udC/LQv/5DP6XParYIQOAHSfeW6qykXAB8zGgJhnA+r4Zv3LNBggNVMbDg=="/>
+        </item>
+        <item>
             <title>0.17.3</title>
             <pubDate>Mon, 26 Oct 2026 09:39:59 -0500</pubDate>
             <sparkle:version>44</sparkle:version>
