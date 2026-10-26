@@ -6,6 +6,21 @@
         <description>Signed update feed for HollerAgain</description>
         <language>en</language>
         <item>
+            <title>0.17.5</title>
+            <pubDate>Mon, 26 Oct 2026 12:45:39 -0500</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>0.17.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>HollerAgain 0.17.5</h2>
+<ul>
+  <li>Subscribe now reveals account setup and brings the next signup step into view.</li>
+  <li>Account links continue to work when you return to Remember or resume setup.</li>
+  <li>Supports Intel and Apple silicon Macs.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/GregStarling/holleragain-updates/releases/download/v0.17.5-build46/HollerAgain-0.17.5-build46.dmg" length="101324339" type="application/octet-stream" sparkle:edSignature="KKez9xaW9d00PEuaZL6owKpK2gEKiFzetoC/eipM0HA0m7ZIy3IB2OpQPxAmr8NvSgSzGiKb6l9X9rZwCT8cBw=="/>
+        </item>
+        <item>
             <title>0.17.4</title>
             <pubDate>Mon, 26 Oct 2026 10:53:01 -0500</pubDate>
             <sparkle:version>45</sparkle:version>
