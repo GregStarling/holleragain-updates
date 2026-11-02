@@ -6,6 +6,21 @@
         <description>Signed update feed for HollerAgain</description>
         <language>en</language>
         <item>
+            <title>0.17.6</title>
+            <pubDate>Mon, 02 Nov 2026 14:26:01 -0600</pubDate>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>0.17.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Pro lifetime gifts</h2>
+<ul>
+  <li>Enter a gift code in HollerAgain to unlock Pro for life, with no card or separate signup.</li>
+  <li>Save your recovery key to restore your gift after reinstalling or moving to another Mac.</li>
+</ul>
+<p>Available on Intel and Apple silicon Macs running macOS 13 or later.</p>
+]]></description>
+            <enclosure url="https://github.com/GregStarling/holleragain-updates/releases/download/v0.17.6-build47/HollerAgain-0.17.6-build47.dmg" length="101489875" type="application/octet-stream" sparkle:edSignature="2gus2Sc7GcJv4BFu3UzzE8+5bE9jHpO+6DMugVTMKv5qiFMhqylBX4QMcyIlmxZsGnpzqgvqNyRBo2lzpZOTAw=="/>
+        </item>
+        <item>
             <title>0.17.5</title>
             <pubDate>Mon, 26 Oct 2026 12:45:39 -0500</pubDate>
             <sparkle:version>46</sparkle:version>
